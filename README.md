@@ -51,13 +51,13 @@ Ensure your links.txt file contains the StreamTape video URLs (one URL per line)
 If you want to download videos one at a time, run the following command:
 
 ```bash
-python3 scraper.py
+python3 scrapperr.py
 ```
 
 If you have a more powerful machine and want to download multiple videos concurrently, use the parallelized script:
 
 ```bash
-python3 scraper_parallel.py
+python3 parallel_scrapper.py
 ```
 
 
