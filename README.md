@@ -21,7 +21,7 @@ This project is a **web scraper** designed to scrape and download videos from *V
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/satyampandey_444/Vidoza_Video_Downloader
+git clone https://github.com/satyampandey444/Vidoza_Video_Downloader
 cd Vidoza_Video_Downloader
 ```
 
