@@ -1,4 +1,4 @@
-# Vidoza_Scrapper
+# Vidoza_Video_Downloader
 # Vidoza Video Downloader
 
 This project is a **web scraper** designed to scrape and download videos from *Vidoza*. It utilizes **Selenium** for scraping, **Joblib** for parallelization, and **Requests** for downloading the video files. The scraper is capable of handling multiple videos in parallel and efficiently downloading them to your system.
@@ -22,8 +22,8 @@ This project is a **web scraper** designed to scrape and download videos from *V
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/satyampandey_444/Vidoza_Scrapper
-cd Vidoza_Scrapper
+git clone https://github.com/satyampandey_444/Vidoza_Video_Downloader
+cd Vidoza_Video_Downloader
 ```
 
 2. **Create a virtual environment (using pipenv for dependency management):**
